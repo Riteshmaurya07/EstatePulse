@@ -1,0 +1,30 @@
+[
+  {
+    "id": "KEY-1790909917252-1",
+    "userId": "USR-1790909916981-467",
+    "userEmail": "client_otp_1790909916@buildtech.com",
+    "name": "ERP Procurement Integration Key",
+    "apiKey": "ep_live_b5bd395f4a79b25599af7c4bdba0c782",
+    "scopes": [
+      "read:projects",
+      "read:procurement"
+    ],
+    "status": "active",
+    "createdAt": "2026-10-02T02:58:37.252Z",
+    "lastUsedAt": "Never"
+  },
+  {
+    "id": "KEY-1790912366417-253",
+    "userId": "USR-1790908655510-496",
+    "userEmail": "rahuldream967@gmail.com",
+    "name": "test",
+    "apiKey": "ep_live_79c8e84de00bdaa5a24f53e2e7378da4",
+    "scopes": [
+      "read:projects",
+      "read:procurement"
+    ],
+    "status": "active",
+    "createdAt": "2026-10-02T03:39:26.417Z",
+    "lastUsedAt": "Never"
+  }
+]

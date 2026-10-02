@@ -1,0 +1,62 @@
+[
+  {
+    "projectId": "PRJ-001",
+    "projectName": "BBD Green City II (Sunbreeze II)",
+    "developerName": "Viraj Constructions",
+    "showContactDetails": true
+  },
+  {
+    "projectId": "PRJ-002",
+    "projectName": "Rohit Galaxy",
+    "developerName": "Rohit Group (Rohit Coloniser)",
+    "showContactDetails": false
+  },
+  {
+    "projectId": "PRJ-003",
+    "projectName": "One World Belvedere Court",
+    "developerName": "Shalimar Corp Limited (SAS Hotels & Properties)",
+    "showContactDetails": false
+  },
+  {
+    "projectId": "PRJ-004",
+    "projectName": "Whispering Woods",
+    "developerName": "Shalimar Corp Limited (SAS Hotels & Properties)",
+    "showContactDetails": false
+  },
+  {
+    "projectId": "PRJ-005",
+    "projectName": "Whispering Woods",
+    "developerName": "Shalimar Corp Limited (SAS Hotels & Properties)",
+    "showContactDetails": false
+  },
+  {
+    "projectId": "PRJ-006",
+    "projectName": "Viraj Lotus Enclave",
+    "developerName": "Viraj Constructions",
+    "showContactDetails": false
+  },
+  {
+    "projectId": "PRJ-007",
+    "projectName": "Viraj Lotus Enclave Phase 2",
+    "developerName": "Viraj Constructions",
+    "showContactDetails": false
+  },
+  {
+    "projectId": "PRJ-008",
+    "projectName": "Inaaya Royal Heights",
+    "developerName": "Surya Infrastructures & Buildrers",
+    "showContactDetails": false
+  },
+  {
+    "projectId": "PRJ-009",
+    "projectName": "Aspire",
+    "developerName": "E-Square Homes",
+    "showContactDetails": false
+  },
+  {
+    "projectId": "PRJ-010",
+    "projectName": "Grand",
+    "developerName": "Omaxe",
+    "showContactDetails": false
+  }
+]
