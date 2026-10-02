@@ -1,0 +1,19 @@
+services:
+  - type: web
+    name: estatepulse-api
+    env: node
+    region: oregon
+    plan: free
+    buildCommand: npm install
+    startCommand: npm start
+    healthCheckPath: /api
+    envVars:
+      - key: PORT
+        value: 5000
+      - key: JWT_SECRET
+        generateValue: true
+      - key: ADMIN_EMAIL
+        value: admin@estatepulse.b2b
+      - key: ADMIN_PASSWORD
+        generateValue: true
+
